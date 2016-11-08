@@ -1,0 +1,29 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+th, td {
+  padding:5px 20px;
+  border: 1px solid #aaa;
+}
+
+th {
+  background-color: #eee;
+}
+
+#userInfo {
+  border: 1px solid #aaa;
+  background-color: #eee;
+  width: 300px;
+  padding: 10px;
+}
+
+#addUser fieldset{
+  border: none;
+  padding:0;
+}
